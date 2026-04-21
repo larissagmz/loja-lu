@@ -35,7 +35,7 @@ const productGrid = document.getElementById("product-grid");
 
 // 3. Função para renderizar os produtos
 // Defina o número do WhatsApp (formato: DDI + DDD + Número, apenas dígitos)
-const SEU_NUMERO_WHATSAPP = "5543985558908"; // Exemplo para Londrina (43)
+const SEU_NUMERO_WHATSAPP = "554398558908"; // Exemplo para Londrina (43)
 
 function enviarWhatsApp(id) {
     // 1. Encontra o produto no array pelo ID
